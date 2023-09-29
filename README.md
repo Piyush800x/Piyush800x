@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently studying Computer Science.<br>I am comfortable in Python, Java.<br>I knew databases like MySQL, MongoDB, SQlite.<br>Currently learning about python web frameworks and Data Structures and Algorithms.
+I am currently studying Computer Science.<br>I am comfortable in Python, Java.<br>I know databases like MySQL, MongoDB, SQlite.<br>Currently learning about python web frameworks and Data Structures and Algorithms.
 
 
 
