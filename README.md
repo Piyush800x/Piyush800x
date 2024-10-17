@@ -7,7 +7,7 @@ I am currently studying Computer Science.<br>I am comfortable in Python, Java, R
 # 🛠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,python,rust,typescript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,rust,typescript" />
   </a>
 </p>
 <p align="center">
