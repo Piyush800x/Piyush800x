@@ -27,7 +27,7 @@ I am currently studying Computer Science.<br>I am comfortable in Python, Java, R
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
 </p>
 
